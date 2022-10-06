@@ -121,3 +121,4 @@ function update() {
     color ("black");
     char("a", player.pos);
 }
+addEventListener("load", onLoad);
